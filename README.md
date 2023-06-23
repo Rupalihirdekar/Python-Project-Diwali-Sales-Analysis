@@ -5,10 +5,11 @@ This project focuses on analyzing sales data during the Diwali festival period. 
 Diwali is one of the biggest festivals in India, and it is known for increased consumer spending. This project aims to analyze sales data to identify patterns and trends during the Diwali festival period. By leveraging Python and data analysis techniques, we can extract valuable insights that can help businesses make informed decisions for future Diwali sales strategies.
 
 ### Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
 
 ### Data
 The dataset used for this analysis consists of sales data captured during the Diwali festival period. It includes information such as product details, customer demographics, purchase amounts, and User ID. 
